@@ -1,3 +1,3 @@
-\nTugas Mandiri 14.5
-\nNama : Hilwa Salsabila
-\nNIM : 2541010
+Tugas Mandiri 14.5
+Nama : Hilwa Salsabila
+NIM : 2541010
